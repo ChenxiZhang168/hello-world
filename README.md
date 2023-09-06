@@ -7,7 +7,7 @@ testing Markdown
 \
 [Git and GitHub Intro Video Help] https://www.youtube.com/watch?v=RGOj5yH7evk
 \
-[Extra Git Help1] https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+[Extra Git Help1] [https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 \
 [Extra Git Help2] [https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet](https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2)
 \
