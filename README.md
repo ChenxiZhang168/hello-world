@@ -13,6 +13,8 @@ testing Markdown
 \
 [Extra Git Help3] https://git-scm.com/docs
 \
+[Unix/Linux Cheat Sheet] https://www.guru99.com/linux-commands-cheat-sheet.html
+\
 [Markdown Cheat Sheet] https://www.markdownguide.org/cheat-sheet/
 \
 [About pull requests] https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
