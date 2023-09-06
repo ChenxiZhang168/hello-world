@@ -5,6 +5,14 @@ testing Markdown
 \
 [Git]https://docs.github.com/en/get-started/using-git/about-git#github-and-the-command-line
 \
+[Git and GitHub Intro Video Help] https://www.youtube.com/watch?v=RGOj5yH7evk
+\
+[Extra Git Help1] https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+\
+[Extra Git Help2] [https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet](https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2)
+\
+[Extra Git Help3] https://git-scm.com/docs
+\
 [Markdown Cheat Sheet] https://www.markdownguide.org/cheat-sheet/
 \
 [About pull requests] https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
